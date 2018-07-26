@@ -1,0 +1,26 @@
+
+ .bouton1 {
+    background:#cc0000;
+    background:-webkit-linear-gradient(#cc0000, #990000);
+    background:linear-gradient(#cc0000, #990000);
+    border-radius:6px;
+    padding:8px 20px;
+    color:#ffffff;
+    display:inline-block;
+    font:normal 700 24px/1 "Calibri", sans-serif;
+    text-align:center;
+    text-shadow:2px 2px #000000
+ }
+
+ .bouton2 {
+    background:#6fa8dc;
+    background:-webkit-linear-gradient(#6fa8dc, #073763);
+    background:linear-gradient(#6fa8dc, #073763);
+    border-radius:6px;
+    padding:8px 20px;
+    color:#ffffff;
+    display:inline-block;
+    font:normal 700 24px/1 "Calibri", sans-serif;
+    text-align:center;
+    text-shadow:2px 2px #000000
+ }
